@@ -1,0 +1,14 @@
+# 内容：自定义代理域名
+# 分类：国外媒体
+#动漫相关
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-KEYWORD,copymanga
+DOMAIN-KEYWORD,zerobyw
+DOMAIN-SUFFIX,hanime1.me
+
+#其它网站
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,x.com
