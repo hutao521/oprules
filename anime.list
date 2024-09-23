@@ -1,10 +1,13 @@
 # 内容：自定义代理域名
 # 视频
 DOMAIN-SUFFIX,hanime1.me
+#pilipili
 DOMAIN-SUFFIX,pilipili.club
 DOMAIN-SUFFIX,stream_pilipili.misakaf.org
+#纸片人
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,chirsemby.top
 DOMAIN-SUFFIX,029902.xyz
 DOMAIN-SUFFIX,gd.9521732.xyz
-
+#AWA
+DOMAIN,tv.811861.xyz:443
