@@ -9,6 +9,11 @@ DOMAIN-KEYWORD,copymanga
 DOMAIN-KEYWORD,zerobyw
 DOMAIN-KEYWORD,cangku.moe
 
+#PT站
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,monikadesign.uk
+DOMAIN-SUFFIX,fsm.name
+
 #其它网站
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,mediaarea.net
