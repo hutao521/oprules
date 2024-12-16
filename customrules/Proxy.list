@@ -15,6 +15,9 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,fsm.name
 
+#图床
+DOMAIN-SUFFIX,imgbox.com
+
 #其它网站
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,mediaarea.net
