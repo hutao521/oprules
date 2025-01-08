@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,fsm.name
 
 #图床
 DOMAIN-SUFFIX,imgbox.com
-DOMAIN,img.picgo.net
+DOMAIN-SUFFIX,picgo.net
 
 #其它网站
 DOMAIN-SUFFIX,v2rayssr.com
