@@ -50,3 +50,7 @@ DOMAIN,vdownload.hembed.com
 DOMAIN,vdownload-20.sb-cd.com
 DOMAIN-KEYWORD,18comic-
 DOMAIN-KEYWORD,jmcomic-
+
+#其他
+DOMAIN-KEYWORD,letsencrypt
+DOMAIN-SUFFIX,letsencrypt.org
