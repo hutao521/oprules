@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,cspt.top
 DOMAIN-SUFFIX,xingyunge.top
 DOMAIN-SUFFIX,ptlover.cc
 DOMAIN-SUFFIX,ptfans.cc
-
+DOMAIN-KEYWORD,pterclub
 
 
 #动漫网站
@@ -55,3 +55,4 @@ DOMAIN-SUFFIX,bangumi.tv
 #其他
 DOMAIN-KEYWORD,letsencrypt
 DOMAIN-SUFFIX,letsencrypt.org
+
