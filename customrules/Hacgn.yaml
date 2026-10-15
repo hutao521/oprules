@@ -1,0 +1,15 @@
+# Generated from rule/Custom_Direct.list
+# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
+# TOTAL: 999
+
+payload:
+#hanime1
+  - DOMAIN-SUFFIX,hanime1.me
+#禁漫天堂
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,18comic.org
+  - DOMAIN-SUFFIX,jmcomic.me
+  - DOMAIN-SUFFIX,jmcomic1.me
+  - DOMAIN-KEYWORD,javdb
+  - DOMAIN-KEYWORD,hanimeone
