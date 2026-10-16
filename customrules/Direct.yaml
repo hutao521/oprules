@@ -1,0 +1,65 @@
+# Generated from rule/Custom_Direct.list
+# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+# SOURCE: https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Direct.list
+# TOTAL: 999
+
+payload:
+#PT站点
+  - DOMAIN-SUFFIX,ubits.club
+  - DOMAIN-KEYWORD,hdkylin
+  - DOMAIN-SUFFIX,hdkyl.in
+  - DOMAIN-SUFFIX,ptcafe.club
+  - DOMAIN-KEYWORD,qingwapt
+  - DOMAIN-SUFFIX,qingwa.pro
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-SUFFIX,carpt.net
+  - DOMAIN-SUFFIX,ilolicon.com
+  - DOMAIN-SUFFIX,ilolicon.cc
+  - DOMAIN-KEYWORD,icc2022
+  - DOMAIN-SUFFIX,czhch.com
+  - DOMAIN-SUFFIX,ptchina.org
+  - DOMAIN-SUFFIX,azusa.wiki
+  - DOMAIN-SUFFIX,piggo.me
+  - DOMAIN-SUFFIX,crabpt.vip
+  - DOMAIN-SUFFIX,rousi.zip
+  - DOMAIN-SUFFIX,kamept.com
+  - DOMAIN-KEYWORD,agsvpt
+  - DOMAIN-SUFFIX,soulvoice.club
+  - DOMAIN-SUFFIX,zmpt.cc
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-KEYWORD,chdbits
+  - DOMAIN-SUFFIX,connects.icu
+  - DOMAIN-SUFFIX,nextpt.net
+  - DOMAIN-SUFFIX,zimiao.icu
+  - DOMAIN-SUFFIX,sunnypt.top
+  - DOMAIN-SUFFIX,sunnytk.top
+  - DOMAIN-SUFFIX,lemonhd.club
+  - DOMAIN-SUFFIX,tmpt.top
+  - DOMAIN-SUFFIX,dragonhd.xyz
+  - DOMAIN-SUFFIX,htpt.cc
+  - DOMAIN-SUFFIX,hdbao.cc
+  - DOMAIN-SUFFIX,sanpro.pw
+  - DOMAIN-SUFFIX,pt.gtk.pw
+  - DOMAIN-SUFFIX,wukongwendao.top
+  - DOMAIN-SUFFIX,cspt.top
+  - DOMAIN-SUFFIX,xingyunge.top
+  - DOMAIN-SUFFIX,ptlover.cc
+  - DOMAIN-SUFFIX,ptfans.cc
+  - DOMAIN-KEYWORD,pterclub
+
+
+#动漫网站
+  - DOMAIN-SUFFIX,mikanime.tv
+  - DOMAIN,bbs.acgrip.com
+  - DOMAIN,404.website
+  - DOMAIN,vdownload.hembed.com
+  - DOMAIN,vdownload-20.sb-cd.com
+  - DOMAIN-KEYWORD,18comic-
+  - DOMAIN-KEYWORD,jmcomic-
+#  - DOMAIN-SUFFIX,bangumi.tv
+
+#其他
+  - DOMAIN-KEYWORD,letsencrypt
+  - DOMAIN-SUFFIX,letsencrypt.org
+  - DOMAIN-SUFFIX,ug.link
+  - DOMAIN-KEYWORD,ug.link
